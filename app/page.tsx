@@ -18,7 +18,7 @@ export default function Page() {
           <p
             className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}
           >
-            <strong>Welcome to {process.env.caption}</strong> We don't just help students learn things. We make sure their learning experience will be long-lasting. 
+            <strong>Welcome to {process.env.caption}</strong> We do not just help students learn things. We make sure their learning experience will be long-lasting. 
           </p>
           <Link
             href="/login"
